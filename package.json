@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A drop-in replacement for LevelDOWN that writes to a JSON file on disk",
   "main": "./jsondown.js",
+  "browser": "./browser.js",
   "keywords": [
     "leveldb",
     "leveldown",
